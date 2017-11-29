@@ -5,8 +5,8 @@ Church React Native
 
 Apple Store - Not available yet
 
-![alt text](https://github.com/danieloprado/church-react-native/raw/master/gifs/android.gif)
-![alt text](https://github.com/danieloprado/church-react-native/raw/master/gifs/ios.gif)
+![Android Gif](https://github.com/danieloprado/church-react-native/raw/master/gifs/android.gif)
+![iOS Gif](https://github.com/danieloprado/church-react-native/raw/master/gifs/ios.gif)
 
 Technologies
 ------------
