@@ -1,4 +1,4 @@
-Church React Native
+Church's App - React Native
 ===================
 
 [Google Play Store](https://play.google.com/store/apps/details?id=br.com.icbsorocaba.app)
