@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ICB Sorocaba</string>
+    <string name="facebook_app_id">xxxx</string>
+    <string name="bugsnag_appkey">xxxx</string>
+</resources>

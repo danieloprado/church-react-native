@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "peterjuras.sort-imports",
+    "HookyQR.beautify",
+    "EditorConfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense"
+  ]
+}
