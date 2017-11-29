@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Church's App - React Native
-=======
-Church App - React Native
->>>>>>> 46de9dcfca192d5ee6e3234e64e33bb5f9d3c800
 ===================
 
 [Google Play Store](https://play.google.com/store/apps/details?id=br.com.icbsorocaba.app)
